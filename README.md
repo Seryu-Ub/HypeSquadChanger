@@ -11,6 +11,8 @@ Il peut aussi être utilisé pour choisir automatiquement une HypeSquad.
 
 ## 💜 Prérequis 💜
 
+Si vous avez des problèmes avec les packages
+
 - Download [`Colorful.Console`](https://www.nuget.org/packages/Colorful.Console) from NuGet.
 - Perform a Git clone
 > git clone https://github.com/tomakita/Colorful.Console.git
