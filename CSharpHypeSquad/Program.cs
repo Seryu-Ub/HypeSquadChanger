@@ -90,7 +90,6 @@ namespace HypeSquadChanger
             var responseString = new StreamReader(response.GetResponseStream()).ReadToEnd();
             Console.WriteLine("");
             Console.WriteLine("Maison Hypesquad changé avec succès", Color.Pink);
-
             Console.ReadKey();
         }
     }
