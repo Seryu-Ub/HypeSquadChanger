@@ -1,4 +1,4 @@
-<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/727474203804041288/744482419062603826/previewfile_1596725447.jpg">
+<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/727474203804041288/744495599872770104/rgrht.gif">
 
 # 🌹 HypeSquadChanger 🌹
 
