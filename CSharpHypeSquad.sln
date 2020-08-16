@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpHypeSquad", "CSharpHypeSquad\CSharpHypeSquad.csproj", "{C605728C-0963-42B1-96AA-188B90E1041C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C605728C-0963-42B1-96AA-188B90E1041C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C605728C-0963-42B1-96AA-188B90E1041C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C605728C-0963-42B1-96AA-188B90E1041C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C605728C-0963-42B1-96AA-188B90E1041C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C704B8-0D80-40CD-8F7E-41769F11AFB8}
+	EndGlobalSection
+EndGlobal
