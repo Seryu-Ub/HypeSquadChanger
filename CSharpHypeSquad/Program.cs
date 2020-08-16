@@ -68,7 +68,7 @@ namespace HypeSquadChanger
                 Console.ReadKey();
             }
 
-            string token = "NzA3NjAzMjU0NzE2MTM3NTE3.XzMX0g.kDIIWlA54MIS4aAp6GHXjbwVK58"; // <------ Mettre le token ici !!! Token Here !!!
+            string token = "Token_Here"; // <------ Mettre le token ici !!! Token Here !!!
 
             var Req = (HttpWebRequest)WebRequest.Create($"https://discordapp.com/api/v8/hypesquad/online");
             var postData = "{⍚house_id⍚:" + input + "}";
