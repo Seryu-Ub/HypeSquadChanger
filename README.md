@@ -9,17 +9,23 @@
 HypeSquadChanger est avant tout fait pour donner de la docu pour aider à apprendre le c#, ou alors utilisé une base de disign pour vos projets ! 
 Il peut aussi être utilisé pour choisir automatiquement une HypeSquad.
 
-## 🌷 Code Open Source ? 🌷
+## 💜 Prérequis 💜
+
+Si vous avez des problemes avec les packages vous pouvez directement les download ici : https://www.nuget.org/packages/Colorful.Console
+
+Le GitHub du projet : https://github.com/tomakita/Colorful.Console
+
+### 🌷 Code Open Source ? 🌷
 
 Effectivement ce code est open source mais je vous demandrai au moins de le like si celui-ci vous a plu ( J'y ai passé du temps :) ). 
 
 Merci d'avoir prit le temps de lire, on se dit à plus tard pour d'autre projet encore plus complet n'est-ce pas!
 
-### 🌈 A quoi ressemble l'app ? 🌈 
+#### 🌈 A quoi ressemble l'app ? 🌈 
 
 ![alt text](https://cdn.discordapp.com/attachments/727474203804041288/744490237555900486/unknown.png)
 ![alt text](https://cdn.discordapp.com/attachments/727474203804041288/744494143555895326/unknown.png)
 
-#### ❣️ By Seryû ❣️
+##### ❣️ By Seryû ❣️
 
 ![alt text](https://cdn.discordapp.com/attachments/727474203804041288/744495172087316570/ezgif-6-e4cb7aedab6d.gif)
