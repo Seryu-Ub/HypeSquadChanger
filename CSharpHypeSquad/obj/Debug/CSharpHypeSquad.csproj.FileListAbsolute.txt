@@ -1,9 +1,0 @@
-D:\Téléchargements\repos\CSharpHypeSquad\CSharpHypeSquad\obj\Debug\CSharpHypeSquad.csprojAssemblyReference.cache
-D:\Téléchargements\repos\CSharpHypeSquad\CSharpHypeSquad\obj\Debug\CSharpHypeSquad.csproj.CoreCompileInputs.cache
-D:\Téléchargements\repos\CSharpHypeSquad\CSharpHypeSquad\bin\Debug\CSharpHypeSquad.exe.config
-D:\Téléchargements\repos\CSharpHypeSquad\CSharpHypeSquad\bin\Debug\CSharpHypeSquad.exe
-D:\Téléchargements\repos\CSharpHypeSquad\CSharpHypeSquad\bin\Debug\CSharpHypeSquad.pdb
-D:\Téléchargements\repos\CSharpHypeSquad\CSharpHypeSquad\bin\Debug\Colorful.Console.dll
-D:\Téléchargements\repos\CSharpHypeSquad\CSharpHypeSquad\obj\Debug\CSharpHypeSquad.csproj.CopyComplete
-D:\Téléchargements\repos\CSharpHypeSquad\CSharpHypeSquad\obj\Debug\CSharpHypeSquad.exe
-D:\Téléchargements\repos\CSharpHypeSquad\CSharpHypeSquad\obj\Debug\CSharpHypeSquad.pdb
