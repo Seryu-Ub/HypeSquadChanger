@@ -52,8 +52,6 @@ namespace HypeSquadChanger
                 Console.WriteLine("| By   : Seryu                            |", ColorTranslator.FromHtml("#B8DBFF"));
                 Console.WriteLine("| Github : https://github.com/Seryu-Ub    |", ColorTranslator.FromHtml("#8AFFEF"));
                 Console.WriteLine("|                                         |", ColorTranslator.FromHtml("#FAD6FF"));
-                Console.WriteLine("| Help by : Zelly                         |", ColorTranslator.FromHtml("#B8DBFF"));
-                Console.WriteLine("| Github : https://github.com/ZelliDev    |", ColorTranslator.FromHtml("#8AFFEF"));
                 Console.WriteLine("|_________________________________________|", ColorTranslator.FromHtml("#FAD6FF"));
                 int DA = 244;
                 int V = 212;
